@@ -45,6 +45,8 @@ ampliando su compatibilidad a dispositivos iPod touch y el iPad.
 * en 1981-1989 tuvo su gran éxito con el [Macintosh](https://es.wikipedia.org/wiki/Macintosh),
 esto lanzó a la empresa un gra exito y un gran reenbolo en su economia como empresa. como podemos observar ahora es una
 de las más grandes compañias del mundo. 
+
 ### Mac OS X
 
-> es un sistema de Apple que esta preinstalado en todas las computadoras.
+> es un sistema que pertenece a Apple que esta preinstalado en todas las computadoras de esta y que utiliza como procesador a una de las empresas que esta en el podium que es [Intel](https://es.wikipedia.org/wiki/Intel), en 2005
+Intel llega a un acuerdo con Apple Computer para intalar procesadores de Intel.

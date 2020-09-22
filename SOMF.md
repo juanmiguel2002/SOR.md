@@ -1,5 +1,4 @@
-# SOMF
-
+# Sistemas Operativos
  
 ## Ubuntu
 ![Ubuntu](https://salmorejogeek.files.wordpress.com/2019/04/ubuntu_logo_2.png?w=349)

@@ -16,7 +16,7 @@ al ser un SO abierto y gratuito, se puede instalar en un servidor, siempre depen
 
 ![android](https://www.imago-mc.com/wp-content/uploads/2016/10/android-logo-200x200.jpg)
 
-Se basa en el núcleo de Linux, es para los moviles, este esta desarrollado por [OHA](https://es.wikipedia.org/wiki/Open_Handset_Alliance) 
+Se basa en el **núcleo de Linux**, es para los moviles, este esta desarrollado por [OHA](https://es.wikipedia.org/wiki/Open_Handset_Alliance) 
 (Open Handset Alliance),
 esta empresa contribuye al desarrollo del sistema bajo la dirección de Google Inc.
 
@@ -29,8 +29,8 @@ diseño y desarrillo de la interfaz WebTV.
 Es uno de los más inportantes y populares que hay hoy en día, pertenece a la familia de distribuidores de software para
 PC, smartphone, servidores y muchos más.
 
-Tiene un codigo cerrado que solo lo puede modificar [Microsoft](https://es.wikipedia.org/wiki/Microsoft)
-Como vemos en la imagen, tenemos la evolución de los logos de Windows, que ha estado diseñando Microsift.
+Tiene un codigo cerrado que solo lo puede modificar [Microsoft](https://es.wikipedia.org/wiki/Microsoft).
+Como vemos en la imagen, tenemos la evolución de los logos de Windows, que ha estado diseñando Microsoft.
 
 Tiene o dispone de multiplies arquitecturas como: **x86, x86-64 y ARM.**
 
@@ -47,6 +47,8 @@ esto lanzó a la empresa un gra exito y un gran reenbolo en su economia como emp
 de las más grandes compañias del mundo. 
 
 ### Mac OS X
+
+![](https://i0.pngocean.com/files/751/886/348/apple-computer-icons-logo-apple-thumb.jpg)
 
 > es un sistema que pertenece a Apple que esta preinstalado en todas las computadoras de esta y que utiliza como procesador a una de las empresas que esta en el podium que es [Intel](https://es.wikipedia.org/wiki/Intel), en 2005
 Intel llega a un acuerdo con Apple Computer para intalar procesadores de Intel.

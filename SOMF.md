@@ -30,7 +30,7 @@ Es uno de los más inportantes y populares que hay hoy en día, pertenece a la f
 PC, smartphone, servidores y muchos más.
 
 Tiene un codigo cerrado que solo lo puede modificar [Microsoft](https://es.wikipedia.org/wiki/Microsoft).
-Como vemos en la imagen, tenemos la evolución de los logos de Windows, que ha estado diseñando Microsoft.
+Como vemos en la imagen, tenemos la evolución de los logos de Windows, que ha diseñando Microsoft.
 
 Tiene o dispone de multiplies arquitecturas como: **x86, x86-64 y ARM.**
 

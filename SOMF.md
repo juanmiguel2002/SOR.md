@@ -38,12 +38,12 @@ Tiene o dispone de multiplies arquitecturas como: **x86, x86-64 y ARM.**
 
 ![](https://i0.pngocean.com/files/751/886/348/apple-computer-icons-logo-apple-thumb.jpg)
 
-Es de tipo móvil, pertenece a la multicnacional [Apple Inc](https://es.wikipedia.org/wiki/Apple), desarrolado inicialmente par iPhone y posteriormente 
-ampliando su compatibilidad a dispositivos iPod touch y el iPad. 
+Es de tipo móvil, pertenece a la multicnacional [Apple Inc](https://es.wikipedia.org/wiki/Apple), desarrolado inicialmente para iPhone y posteriormente 
+amplia su compatibilidad a dispositivos **iPod touch y el iPad.** 
 
 * Se fundo en el 1976-1980
 * en 1981-1989 tuvo su gran éxito con el [Macintosh](https://es.wikipedia.org/wiki/Macintosh),
-esto lanzó a la empresa un gra exito y un gran reenbolo en su economia como empresa. como podemos observar ahora es una
+esto lanzó a la empresa un gra exito y un gran reenbolo en su economía como empresa. como podemos observar ahora es una
 de las más grandes compañias del mundo. 
 
 ### Mac OS X

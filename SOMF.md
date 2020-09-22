@@ -48,7 +48,6 @@ de las más grandes compañias del mundo.
 
 ### Mac OS X
 
-![](https://i0.pngocean.com/files/751/886/348/apple-computer-icons-logo-apple-thumb.jpg)
+> es un sistema que pertenece a Apple que esta preinstalado en todas las computadoras de esta y que utiliza como procesador a una de las empresas que esta en el podium que es [Intel](https://es.wikipedia.org/wiki/Intel), 
 
-> es un sistema que pertenece a Apple que esta preinstalado en todas las computadoras de esta y que utiliza como procesador a una de las empresas que esta en el podium que es [Intel](https://es.wikipedia.org/wiki/Intel), en 2005
-Intel llega a un acuerdo con Apple Computer para intalar procesadores de Intel.
+En 2005 Intel llega a un acuerdo con Apple Computer para intalar procesadores de Intel.

@@ -4,7 +4,7 @@
 
 **GPL** del acrónimo (General Public License), es una licencia regula los derechos de autor
 de los programas de software libre,
-promovido por el Free Software Foundation (FSF).
+promovido por el [Free Software Foundation (FSF).](https://es.wikipedia.org/wiki/Free_Software_Foundation)
 
 ## Diferencias entre Software libre y comercial.
 

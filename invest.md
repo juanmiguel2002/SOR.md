@@ -62,7 +62,7 @@ que comprar ese producto.
   
   4. **Debian**
   
-  también es una de las grandes distribuciones, grande no solamente por el tamaño de su instalador, 
+  También es una de las grandes distribuciones, grande no solamente por el tamaño de su instalador, 
   sino porque existe un gran número de distribuciones basadas en ella, 
   incluido quien históricamente ha sido la distribución más popular durante años.
   

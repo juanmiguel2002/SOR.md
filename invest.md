@@ -52,8 +52,8 @@ que comprar ese producto.
   especialmente por su facilidad de uso, por la gran cantidad de paquetes optimizados para esta distribución,
   además de estar basada en la anterior distribución.
   
-  Su última versión es la 18.04, conocida como Bionic Beaver, abandona Unity como interfaz para regresar 
-  a Gnome con la versión 3.28.1, _incluye programas nombrados anteriormente._ 
+  Su última versión es la 20.04, (Focal Fossa) fue lanzado el 23 abril de 2020. Se trata de una versión LTS, con 5 años de soporte.
+  _incluye programas nombrados anteriormente._ 
   
   > **Es una distribución más popular.**
   

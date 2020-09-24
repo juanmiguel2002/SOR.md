@@ -1,4 +1,4 @@
-# Sistemas Operativos
+# Sistemas Operativos.
  
 ## Ubuntu
 ![Ubuntu](https://salmorejogeek.files.wordpress.com/2019/04/ubuntu_logo_2.png?w=349)
@@ -15,7 +15,7 @@ al ser un SO abierto y gratuito, se puede instalar en un servidor, siempre depen
 
 ![android](https://www.imago-mc.com/wp-content/uploads/2016/10/android-logo-200x200.jpg)
 
-Se basa en el **núcleo de Linux**, es para los moviles, este esta desarrollado por [OHA](https://es.wikipedia.org/wiki/Open_Handset_Alliance) 
+Se basa en el **núcleo de Linux**, es un sistema operativo para los moviles, este esta desarrollado por [OHA](https://es.wikipedia.org/wiki/Open_Handset_Alliance) 
 (Open Handset Alliance),
 esta empresa contribuye al desarrollo del sistema bajo la dirección de Google Inc.
 
@@ -49,4 +49,4 @@ de las más grandes compañias del mundo.
 
 > es un sistema que pertenece a Apple que esta preinstalado en todas las computadoras de esta y que utiliza como procesador a una de las empresas que esta en el podium que es [Intel](https://es.wikipedia.org/wiki/Intel), 
 
-En 2005 Intel llega a un acuerdo con Apple Computer para intalar procesadores de Intel.
+En 2005 Intel llega a un acuerdo con Apple Computer para instalar procesadores de Intel.

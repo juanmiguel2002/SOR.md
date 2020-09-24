@@ -32,7 +32,11 @@ que comprar ese producto
    > ***Es la distribución que ha conquistado el último año a los usuarios linuxeros del mundo***. 
     
    Esta distribución basada en Arch, de origen austriaco, alemán y francés, 
-   se ha posicionado en los escritorios de miles de usuarios en el mundo 
+   se ha posicionado en los escritorios de miles de usuarios en el mundo.
+   
+   Tiene como interfaz por defecto a XFCEe en su última versión 17.1.11
+   _incluye mucho software como ahora el Firefox y Gimp entre otros_
+   
   
   ![](https://i0.wp.com/www.kigaricyd.com/wp-content/uploads/2018/07/01-Manjaro.png?resize=300%2C169&ssl=1)
   
@@ -41,7 +45,7 @@ que comprar ese producto
   > Actualmente se encuentra en su versión 19, titulada Tara, 
   
   Se integra de forma predefinida con Cinnamon como interfaz gráfica, y se mantiene en una de las distribuciones 
-  más rapidas.
+  más rapidas. En esta versión se incluyen software's como ahora Gimp, Firefox entre muchos más.	
   
   ![](https://i1.wp.com/www.kigaricyd.com/wp-content/uploads/2018/07/02-Linux-Mint.png?resize=300%2C169&ssl=1)
   
@@ -50,6 +54,12 @@ que comprar ese producto
   especialmente por su facilidad de uso, por la gran cantidad de paquetes optimizados para esta distribución,
   además de estar basada en la anterior distribución.
   
+  Su última versión es la 18.04, conocida como Bionic Beaver, abandona Unity como interfaz para regresar 
+  a Gnome con la versión 3.28.1, _incluye programas nombrados anteriormente._ 
+  
+  > Es una distribución más popular.
+  
+  
   ![](https://i2.wp.com/www.kigaricyd.com/wp-content/uploads/2018/07/03-Ubuntu.png?resize=300%2C169&ssl=1)
   
   4. **Debian**
@@ -57,6 +67,9 @@ que comprar ese producto
   también es una de las grandes distribuciones, grande no solamente por el tamaño de su instalador, 
   sino porque existe un gran número de distribuciones basadas en ella, 
   incluido quien históricamente ha sido la distribución más popular durante años.
+  
+  Esta en su versión 9, titulada como "Stretch", su software base incluye Firefox, 
+  Evolution como cliente de correo y muchos más.
   
   ![](https://i2.wp.com/www.kigaricyd.com/wp-content/uploads/2018/07/04-Debian.png?resize=300%2C225&ssl=1)
   
